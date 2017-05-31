@@ -1,0 +1,94 @@
+[21-May-2017 20:05:48 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:05:48 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:05:48 America/Chicago] PHP Warning:  include(): Failed opening 'apiQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:06:06 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:06:06 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:06:06 America/Chicago] PHP Warning:  include(): Failed opening 'apiQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:06:47 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:06:47 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:06:47 America/Chicago] PHP Warning:  include(): Failed opening 'apiQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:07:09 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:07:09 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:07:09 America/Chicago] PHP Warning:  include(): Failed opening 'apiQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:07:09 America/Chicago] PHP Fatal error:  Class 'apiQuery' not found in /home/courseco/public_html/signup.php on line 31
+[21-May-2017 20:07:18 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:07:18 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:07:18 America/Chicago] PHP Warning:  include(): Failed opening 'apiQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:07:47 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:07:47 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:07:47 America/Chicago] PHP Warning:  include(): Failed opening 'apiQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:07:58 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:07:58 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:07:58 America/Chicago] PHP Warning:  include(): Failed opening 'apiQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:07:58 America/Chicago] PHP Fatal error:  Class 'apiQuery' not found in /home/courseco/public_html/signup.php on line 31
+[21-May-2017 20:32:18 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:32:18 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:32:18 America/Chicago] PHP Warning:  include(): Failed opening 'apiQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:32:59 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:32:59 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:32:59 America/Chicago] PHP Warning:  include(): Failed opening 'apiQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:36:00 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:36:00 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:36:00 America/Chicago] PHP Warning:  include(): Failed opening 'apiQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:36:00 America/Chicago] PHP Fatal error:  Class 'apiQuery' not found in /home/courseco/public_html/signin.php on line 9
+[21-May-2017 20:38:00 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:38:00 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:38:00 America/Chicago] PHP Warning:  include(): Failed opening 'apiQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:38:12 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:38:12 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:38:12 America/Chicago] PHP Warning:  include(): Failed opening 'apiQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:38:12 America/Chicago] PHP Fatal error:  Class 'apiQuery' not found in /home/courseco/public_html/signin.php on line 13
+[21-May-2017 20:39:25 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:39:25 America/Chicago] PHP Warning:  include(apiQuery.php): failed to open stream: No such file or directory in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:39:25 America/Chicago] PHP Warning:  include(): Failed opening 'apiQuery.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/courseco/public_html/php/beginn.php on line 4
+[21-May-2017 20:39:25 America/Chicago] PHP Fatal error:  Class 'apiquery' not found in /home/courseco/public_html/signin.php on line 9
+[21-May-2017 20:49:58 America/Chicago] PHP Fatal error:  Uncaught Exception: Unable to parse response as JSON in phar:///home/courseco/public_html/php/httpful.phar/Httpful/Handlers/JsonHandler.php:30
+Stack trace:
+#0 phar:///home/courseco/public_html/php/httpful.phar/Httpful/Response.php(107): Httpful\Handlers\JsonHandler->parse('Incorrect integ...')
+#1 phar:///home/courseco/public_html/php/httpful.phar/Httpful/Response.php(46): Httpful\Response->_parse('Incorrect integ...')
+#2 phar:///home/courseco/public_html/php/httpful.phar/Httpful/Request.php(230): Httpful\Response->__construct('Incorrect integ...', 'HTTP/1.1 200 OK...', Object(Httpful\Request), Array)
+#3 phar:///home/courseco/public_html/php/httpful.phar/Httpful/Request.php(234): Httpful\Request->send()
+#4 /home/courseco/public_html/php/apiquery.php(227): Httpful\Request->sendIt()
+#5 /home/courseco/public_html/php/apiquery.php(206): apiQuery->callJson('createprof', 'user=amd&pass=a...')
+#6 /home/courseco/public_html/php/apiquery.php(127): apiQuery->call('createprof', 'user=amd&pass=a...')
+#7 /home/courseco/pub in phar:///home/courseco/public_html/php/httpful.phar/Httpful/Handlers/JsonHandler.php on line 30
+[21-May-2017 20:51:17 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/courseco/public_html/signup.php on line 48
+[21-May-2017 20:51:17 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/courseco/public_html/signup.php on line 49
+[21-May-2017 20:54:17 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/courseco/public_html/signup.php on line 48
+[21-May-2017 20:54:17 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/courseco/public_html/signup.php on line 49
+[21-May-2017 20:56:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/courseco/public_html/signup.php on line 48
+[21-May-2017 20:56:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/courseco/public_html/signup.php on line 49
+[21-May-2017 20:58:30 America/Chicago] PHP Fatal error:  Uncaught Exception: Unable to parse response as JSON in phar:///home/courseco/public_html/php/httpful.phar/Httpful/Handlers/JsonHandler.php:30
+Stack trace:
+#0 phar:///home/courseco/public_html/php/httpful.phar/Httpful/Response.php(107): Httpful\Handlers\JsonHandler->parse('Table 'courseco...')
+#1 phar:///home/courseco/public_html/php/httpful.phar/Httpful/Response.php(46): Httpful\Response->_parse('Table 'courseco...')
+#2 phar:///home/courseco/public_html/php/httpful.phar/Httpful/Request.php(230): Httpful\Response->__construct('Table 'courseco...', 'HTTP/1.1 200 OK...', Object(Httpful\Request), Array)
+#3 phar:///home/courseco/public_html/php/httpful.phar/Httpful/Request.php(234): Httpful\Request->send()
+#4 /home/courseco/public_html/php/apiquery.php(227): Httpful\Request->sendIt()
+#5 /home/courseco/public_html/php/apiquery.php(206): apiQuery->callJson('checkuser', 'user=amd&pass=a...')
+#6 /home/courseco/public_html/php/apiquery.php(133): apiQuery->call('checkuser', 'user=amd&pass=a...')
+#7 /home/courseco/publi in phar:///home/courseco/public_html/php/httpful.phar/Httpful/Handlers/JsonHandler.php on line 30
+[31-May-2017 18:13:43 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'zip' not found in /home/courseco/public_html/zipper.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/courseco/public_html/zipper.php on line 3
+[31-May-2017 18:15:20 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'zip' not found in /home/courseco/public_html/zipper.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/courseco/public_html/zipper.php on line 3
+[31-May-2017 18:16:28 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'zip' not found in /home/courseco/public_html/zipper.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/courseco/public_html/zipper.php on line 3
+[31-May-2017 18:16:44 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'zip' not found in /home/courseco/public_html/zipper.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/courseco/public_html/zipper.php on line 3
+[31-May-2017 18:17:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'zip' not found in /home/courseco/public_html/zipper.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/courseco/public_html/zipper.php on line 3
+[31-May-2017 18:17:40 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'zip' not found in /home/courseco/public_html/zipper.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/courseco/public_html/zipper.php on line 3

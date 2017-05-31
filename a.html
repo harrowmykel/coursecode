@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<script type="text/javascript" src="assets/js/jquery.js"></script>
+<script type="text/javascript">
+	
+$.ajax({
+	data:"dnkn=dndk",
+	dataType:"json",
+	type:"POST",
+	url:"http://localhost/json.php",
+	success:function(data){
+		console.log(data);
+	}, error:function(data){
+		console.log(data);
+	}});
+</script>
+</body>
+</html>

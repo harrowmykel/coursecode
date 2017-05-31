@@ -1,0 +1,8 @@
+[23-May-2017 05:38:28 America/Chicago] PHP Warning:  ZipArchive::close(): Failure to create temporary file: No such file or directory in /home/courseco/public_html/api/v1/libs/assignment.php on line 434
+[24-May-2017 19:06:38 America/Chicago] PHP Notice:  Use of undefined constant ADDR - assumed 'ADDR' in /home/courseco/public_html/api/v1/libs/assignment.php on line 440
+[24-May-2017 19:06:38 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'zip' not found in /home/courseco/public_html/api/v1/libs/assignment.php:448
+Stack trace:
+#0 /home/courseco/public_html/api/v1/libs/profile.php(212): Assignment->getCompressed('jollof')
+#1 /home/courseco/public_html/api/v1/api.php(73): getCompressed()
+#2 {main}
+  thrown in /home/courseco/public_html/api/v1/libs/assignment.php on line 448

@@ -1,0 +1,162 @@
+
+.topicM{
+  margin-top: 0px;
+}
+
+
+.m-warning{
+  background-color: #fcf8e3;
+  opacity: 1;
+}
+
+
+.imgim{
+  /*max-width: none;    
+  height: auto;
+  width: auto;
+  margin: 0;
+  padding: 0;
+  width: 77.5%;
+  margin-left: 2.5%;
+  margin: 0 auto;
+  width: 100%;
+  float: left;*/
+  /*margin: */
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.fgg_center{  
+  text-align: center;
+}
+
+@media(min-width:695px){
+  /*//mobile*/
+  .nfs{
+    right:0;
+    text-align: right;
+  }
+
+  .linkkkk{
+    visibility: hidden;
+    
+  }
+}
+
+@media(max-width:695px){
+  .linkk_mobile{
+    /*visibility: hidden;*/
+  }
+}
+
+@media(max-width:812px){
+  .imgim{
+    /*margin-right: 5px;
+    margin-left: 5px;*/
+  text-align: center;
+  }
+}
+
+.logol{
+  /*padding: 15px;*/
+  font-weight: 300;
+  /*font-size: 16px;*/
+  line-height: 28px;
+  color: #FFFFFF;
+  font-size: 13px;
+  margin-bottom: 0;
+  /*background: #777;*/
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  text-transform: uppercase;
+  border-radius: 7px;
+}
+
+
+body{
+  vertical-align: middle;
+  margin-left: 2.5%;
+  margin: 0 auto;
+  width: 100%;
+  float: left;
+}
+
+.mdm{
+  vertical-align: middle;
+    width: 100%;
+    /*overflow: scroll;*/
+    word-wrap: break-word;
+}
+
+.btnn{
+    /*overflow: scroll;*/
+    /*word-wrap: break-word;*/
+    white-space: pre-line;
+}
+
+.link_output{
+  /*min-height: 70px;*/
+
+  font-weight: 300;
+  /*font-size: 16px;*/
+  line-height: 28px;
+  color: #FFFFFF;
+  font-size: 13px;
+  margin-bottom: 0;
+  background: #777;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 20px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  text-transform: uppercase;
+  border-radius: 7px;
+}
+
+.link_output:hover{
+  background-color: #456;
+}
+
+.loader{
+  color: #a23445;
+}
+
+.link_output>.outt{
+ 
+  color: #FFFFFF;
+  font-weight: bold;
+  /*font-size: 16px;*/
+  line-height: 28px;
+  font-size: 13px;
+  margin-bottom: 0;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 20px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  text-transform: uppercase;
+  border-radius: 7px;
+}
+
+.imgim>.ou{
+ 
+  /*color: #FFFFFF;*/
+  font-weight: bold;
+  background-color: #fff;
+  line-height: 28px;
+  font-size: 13px;
+  margin-bottom: 0;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 10px;
+  padding: 10px;
+  text-transform: uppercase;
+  border-radius: 7px;
+
+}

@@ -1,0 +1,20 @@
+# Customizable error responses come in three flavors:
+# 1) plain text 2) local redirects 3) external redirects
+#
+# Some examples:
+
+
+Options -indexes
+Options +FollowSymlinks
+
+
+ErrorDocument 400  /coursecode/nxt/error.php?a=400
+ErrorDocument 401  /coursecode/nxt/error.php?a=401
+ErrorDocument 403  /coursecode/nxt/error.php?a=403
+ErrorDocument 404  /coursecode/nxt/error.php?a=404
+ErrorDocument 500  /coursecode/nxt/error.php?a=500
+
+ReWriteEngine On 
+
+ReWriteRule ^compress/(.+)/(.+) go.php?user=$1&link=$2&to=compress [NC,L]
+ReWriteRule ^excel/(.+)/(.+) go.php?user=$1&link=$2&to=excel [NC,L]
